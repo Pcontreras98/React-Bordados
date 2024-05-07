@@ -1,0 +1,34 @@
+.contenedor-bordado{
+    width: 350px;
+    height: 350px;
+    margin: 10px 10px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-bordado {
+    height: 60%;
+    width: auto;
+}
+
+.contenedor-texto-bordado{
+    text-align: center;
+    padding: 6px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.nombre-bordado {
+    font-size: 1.3rem;
+    padding: 8px;
+}
+
+.texto-bordado{
+    font-size: 1.1rem;
+    padding: 5px;
+}
