@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Bordados/static/css/main.00ecd6be.css",
+    "main.js": "/React-Bordados/static/js/main.acf9a2a8.js",
+    "static/media/imagen-bordado3.jpg": "/React-Bordados/static/media/imagen-bordado3.258fda2050e243b656f3.jpg",
+    "static/media/imagen-bordado4.jpg": "/React-Bordados/static/media/imagen-bordado4.e66f3af9e1b55992709b.jpg",
+    "static/media/imagen-bordado5.jpg": "/React-Bordados/static/media/imagen-bordado5.916b5dfdaf6a8a12b240.jpg",
+    "static/media/imagen-bordado2.jpg": "/React-Bordados/static/media/imagen-bordado2.db6a0085d32728b8e3fb.jpg",
+    "static/media/imagen-bordado1.jpg": "/React-Bordados/static/media/imagen-bordado1.9adc096c596bb41addb7.jpg",
+    "static/media/imagen-bordado6.jpg": "/React-Bordados/static/media/imagen-bordado6.4401bdd3d9d403755ec9.jpg",
+    "index.html": "/React-Bordados/index.html",
+    "main.00ecd6be.css.map": "/React-Bordados/static/css/main.00ecd6be.css.map",
+    "main.acf9a2a8.js.map": "/React-Bordados/static/js/main.acf9a2a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ecd6be.css",
+    "static/js/main.acf9a2a8.js"
+  ]
+}
